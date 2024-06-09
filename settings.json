@@ -1,8 +1,8 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "UptimeBot",
+    "password": "",
+    "type": ""
   },
 
   "server": {
