@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "RiseSMPMC.aternos.me",
+    "port": 46779,
     "version": "1.19.3"
   },
 
@@ -49,9 +49,8 @@
 
       "messages": [
         "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "My owner is Jr Busaco ",
+        "I want be alone "
       ]
     },
 
